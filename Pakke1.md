@@ -11,9 +11,9 @@ In the 1970ies, the fragments were removed from the binding of: Diogenous Laerto
 ![Image](https://github.com/kristinbourassa/Rara/blob/master/JPEG/reducedRARA-%20fragmenter-pakke-1_002.jpg)
 ![Image](https://github.com/kristinbourassa/Rara/blob/master/JPEG/reducedRARA-%20fragmenter-pakke-1_003.jpg)
 ![Image](https://github.com/kristinbourassa/Rara/blob/master/JPEG/reducedRARA-%20fragmenter-pakke-1_004.jpg)
-![Image](https://github.com/kristinbourassa/Rara/blob/master/JPEG/reducedRARA-%20fragmenter-pakke-1_005.jpg)
+![Image](https://github.com/kristinbourassa/Rara/blob/master/JPEG/reducedRARA-%20fragmenter-pakke-1_005-2.jpg)
 ![Image](https://github.com/kristinbourassa/Rara/blob/master/JPEG/reducedRARA-%20fragmenter-pakke-1_006.jpg)
-![Image](https://github.com/kristinbourassa/Rara/blob/master/JPEG/reducedRARA-%20fragmenter-pakke-1_007.jpg)
+![Image](https://github.com/kristinbourassa/Rara/blob/master/JPEG/reducedRARA-%20fragmenter-pakke-1_006-2.jpg)
 
 
 [back to home](README.md)
