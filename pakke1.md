@@ -5,3 +5,4 @@
 In the 1970ies, the fragments were removed from the binding of: Diogenous Laertou Peri biōn, dogmatōn kai apophthegmatōn tōn en philosophia eudokimēsantōn, biblia 10 Cum annotationibus Henr.Stephani Diogenis Laertii De vitis, dogmatis & apophthegmatis eorum qui in philosophia claruerunt, libri X 
 1570, call number: RARA K 230
 ![Image](https://github.com/kristinbourassa/Rara/blob/master/JPEG/RARA-%20fragmenter-pakke-1_001.jpg)
+[back to home](README.md)
