@@ -1,5 +1,3 @@
-#1 aaA
-
 ## Fragmenter med Digest/Pandectae, Liber octavus
 
 ### Call number: RARA Fragmenter Pakke 2
