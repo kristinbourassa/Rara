@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 ```
-[Link](url) and ![Image](https://github.com/kristinbourassa/Rara/edit/master/JPEG/RARA- fragmenter-pakke-1_001.jpg)
+[Link](url) and ![Image](https://github.com/kristinbourassa/Rara/blob/master/JPEG/RARA-%20fragmenter-pakke-1_001.jpg)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
