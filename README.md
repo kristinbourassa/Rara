@@ -1,5 +1,5 @@
 ## SDU MS Fragments
-Here are some fragment images. Yay!
+Here are some images of Fragments from the SDU. Know anything about it? please post a comment with [hypothes.is](https://hypothes.is/)
 
 * [Pakke 1](Pakke1.md)
 * [Pakke 2](Pakke2.md)
