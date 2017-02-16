@@ -12,8 +12,9 @@ In the 1970ies, the fragments were removed from the binding of: Diogenous Laerto
 ![Image](JPEG/3.jpg)
 ![Image](JPEG/4.jpg)
 ![Image](JPEG/5.jpg)
+![Image](JPEG/5-2.jpg)
 ![Image](JPEG/6.jpg)
-![Image](JPEG/7.jpg)
+![Image](JPEG/6-2.jpg)
 
 
 [back to home](README.md)
