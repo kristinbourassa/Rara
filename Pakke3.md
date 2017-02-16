@@ -4,6 +4,6 @@
 Sparse information: Small medieval paper(?) pieces of antiphon (seemingly), with square notation and text. Dating? The package also contains non-medieval material on parchment. 
 
 The fragments have been removed from the binding of call number Herlufsholm 502.16
-
+Text Edit Changes 
 [back to home](README.md)
 
