@@ -1,4 +1,4 @@
-## [Fragmenter af latinsk missale vedrørende påsken]
+## Fragmenter af latinsk missale vedrørende påsken
 
 ### Call number: RARA Fragmenter Pakke 1
 ***Sparse information***: Medieval parchment fragments of a Latin missal, specifically on Easter. Among other things, there are references to John 20:19. Otherwise, unidentified. Dating?
